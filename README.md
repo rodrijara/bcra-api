@@ -1,1 +1,1 @@
-Precio Dolar app
+Get official USD price from BCRA API
