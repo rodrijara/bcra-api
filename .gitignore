@@ -1,0 +1,5 @@
+# ignore VSCode configuration file
+.vscode 
+
+# ignore token file (specific to each user)
+token.txt
