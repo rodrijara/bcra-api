@@ -1,5 +1,9 @@
-# ignore VSCode configuration file
-.vscode 
+# all hidden files but .gitignore
+.*
+!.gitignore
 
-# ignore token file (specific to each user)
-token.txt
+# token.py file 
+token.py 
+
+# todo file
+todo.md 
